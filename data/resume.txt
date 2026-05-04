@@ -1,0 +1,26 @@
+Nishan is a Java Backend Engineer with ~3 years of experience specializing in scalable backend systems, financial applications, and performance optimization.
+
+Skills:
+- Java, MSSQL, MySQL, MongoDB
+- Spring Boot, Spring MVC, Hibernate, Spring Security
+- Kafka, Redis, Caffeine
+- Microservices, Distributed Systems, Multithreading
+- REST, SOAP, GraphQL, JWT Authentication
+- Docker, Git, Maven, Azure DevOps
+- Elasticsearch, Kibana
+
+Experience:
+- Software Engineer at Geojit Technologies (Nov 2023 – Present)
+- Migrated legacy Java applications to Spring Boot microservices
+- Improved performance by ~20% through optimization
+- Built Kafka-based real-time pipelines for financial transactions
+- Implemented Redis caching to improve throughput
+- Worked on production systems with high reliability and scalability
+
+Projects:
+- Payout Processing System: Kafka-based distributed system handling high-volume financial transactions with validation, retry, and asynchronous processing
+- OTP Messaging Service: Processes 100K+ daily SMS/email messages with failover and Redis Pub/Sub for high availability
+- Esigner System: Secure document workflow with encryption, Base64 processing, and async callbacks
+- BackOffice Assist: Job scheduling system automating FTP/SFTP, DB, and API workflows with retries and RBAC
+- MCX Exchange Connector: TCP-based trading integration with auto-reconnect and parallel processing
+- CDSL Account Opening: Optimized workflow from 15 minutes to 3 minutes using Resilience4j
