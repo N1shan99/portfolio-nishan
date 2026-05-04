@@ -142,7 +142,7 @@ export default function HireMe() {
         Fine… I respect that.
         <br />
         <a
-          href="https://github.com/YOUR_GITHUB"
+          href="https://github.com/N1shan99/portfolio-nishan/"
           target="_blank"
           style={{ color: "#38bdf8", textDecoration: "none" }}
         >
