@@ -22,8 +22,7 @@ export default function Certifications() {
 
       <div style={{ lineHeight: "2" }}>
         <p>🏆 Claude 101 — Anthropic (2026)</p>
-        <p>🤖 Generative AI APIs (OpenAI, Groq, Gemini)</p>
-        <p>⚙️ AI Integration (LLM + Backend Systems)</p>
+        <p>🏆 Building with the Claude API — Anthropic (2026)</p>
       </div>
     </div>
   );
