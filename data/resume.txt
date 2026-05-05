@@ -36,7 +36,7 @@ AI & Modern Tech:
 - RAG (Retrieval-Augmented Generation) implementation using vector databases
 - Prompt engineering and LLM response optimization
 - AI chatbot development with contextual memory
-- Experience with Claude 101 and "Building with Claude API" courses by Anthropic
+- Completed the 'Claude 101' and 'Building with Claude API' courses by Anthropic
 - Basic React knowledge for frontend integration with AI systems
 
 Education:
