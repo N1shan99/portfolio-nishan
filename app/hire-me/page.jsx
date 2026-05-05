@@ -2,6 +2,7 @@
 
 import { motion } from "framer-motion";
 import { useRouter } from "next/navigation";
+import Link from "next/link";
 
 export default function HireMe() {
   const router = useRouter();
@@ -46,6 +47,15 @@ export default function HireMe() {
           style={{ cursor: "pointer" }}
         >
           Gallery 📸
+        </motion.span>
+		
+		{/* Resume Button */}
+        <motion.span
+          whileHover={{ scale: 1.1, color: "#38bdf8" }}
+          onClick={() => router.push("/resume")}
+          style={{ cursor: "pointer" }}
+        >
+          Resume 📄
         </motion.span>
       </div>
 
