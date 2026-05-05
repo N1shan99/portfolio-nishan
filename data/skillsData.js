@@ -49,7 +49,7 @@ export const skillsData = [
   {
     title: "DevOps & Tools",
     items: [
-      "Docker", "OpenShift", "Git",
+      "Docker", "OpenShift", "Git", "AWS",
       "Azure DevOps", "Maven", "Gradle", "Postman"
     ]
   },
