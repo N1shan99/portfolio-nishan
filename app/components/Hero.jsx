@@ -19,7 +19,7 @@ export default function Hero() {
         src="/gallery/pic2.jpeg" // 👉 put your image in /public
         alt="bg"
         initial={{ opacity: 0 }}
-        animate={{ opacity: 0.15 }}
+        animate={{ opacity: 0.5 }}
         transition={{ duration: 2 }}
         style={{
           position: "absolute",
@@ -28,7 +28,7 @@ export default function Hero() {
           transform: "translateY(-50%)",
           width: "500px",
 
-          opacity: 0.08,
+          opacity: 0.4,
           filter: "blur(3px) brightness(1.2)",
 
           pointerEvents: "none",
