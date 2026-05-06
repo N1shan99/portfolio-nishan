@@ -99,7 +99,7 @@ export default function HireMe() {
       </motion.div>
       */}
 
-      {/* 🔥 CTA */}
+      {/*
       <motion.button
         whileHover={{ scale: 1.08 }}
         whileTap={{ scale: 0.95 }}
@@ -143,6 +143,7 @@ export default function HireMe() {
       >
         Try ₹1 Demo
       </motion.button>
+      */}
 
       {/* 🔥 Bottom */}
       <motion.div
