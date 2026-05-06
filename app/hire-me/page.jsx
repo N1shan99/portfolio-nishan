@@ -48,8 +48,8 @@ export default function HireMe() {
         >
           Gallery 📸
         </motion.span>
-		
-		{/* Resume Button */}
+
+        {/* Resume Button */}
         <motion.span
           whileHover={{ scale: 1.1, color: "#38bdf8" }}
           onClick={() => router.push("/resume")}
@@ -74,13 +74,13 @@ export default function HireMe() {
         Like this portfolio? 😏
       </motion.h1>
 
-      {/* <p style={{ maxWidth: "600px", margin: "auto", color: "#94a3b8" }}>
+      {/*
+      <p style={{ maxWidth: "600px", margin: "auto", color: "#94a3b8" }}>
         I build modern, animated, AI-powered portfolios.
         <br />
         Also... yes, this button actually opens a real payment gateway 😂
       </p>
 
-      {/* 🔥 Features */}
       <motion.div
         initial={{ opacity: 0 }}
         animate={{ opacity: 1 }}
@@ -97,6 +97,7 @@ export default function HireMe() {
         <p>⚡ Backend + real APIs</p>
         <p>💼 Built like a real product, not a template</p>
       </motion.div>
+      */}
 
       {/* 🔥 CTA */}
       <motion.button
@@ -140,18 +141,20 @@ export default function HireMe() {
           }
         }}
       >
-        Try ₹1 Demo (I swear it's real 😭)
+        Try ₹1 Demo
       </motion.button>
 
       {/* 🔥 Bottom */}
       <motion.div
         style={{ marginTop: "35px", fontSize: "14px", color: "#64748b" }}
       >
+        {/*
         Don’t wanna pay ₹1? 🤨
         <br />
         Fine… I respect that.
-        <br /> */}
-		<br />  
+        <br />
+        */}
+
         <a
           href="https://github.com/N1shan99/portfolio-nishan/"
           target="_blank"
