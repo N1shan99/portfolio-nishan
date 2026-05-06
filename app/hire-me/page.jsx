@@ -74,7 +74,7 @@ export default function HireMe() {
         Like this portfolio? 😏
       </motion.h1>
 
-      <p style={{ maxWidth: "600px", margin: "auto", color: "#94a3b8" }}>
+      {/* <p style={{ maxWidth: "600px", margin: "auto", color: "#94a3b8" }}>
         I build modern, animated, AI-powered portfolios.
         <br />
         Also... yes, this button actually opens a real payment gateway 😂
@@ -150,7 +150,8 @@ export default function HireMe() {
         Don’t wanna pay ₹1? 🤨
         <br />
         Fine… I respect that.
-        <br />
+        <br /> */}
+		<br />  
         <a
           href="https://github.com/N1shan99/portfolio-nishan/"
           target="_blank"
