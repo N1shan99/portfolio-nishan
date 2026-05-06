@@ -9,6 +9,7 @@ import Experience from "./components/Experience";
 import Certifications from "./components/Certifications";
 import AISection from "./components/AISection";
 import FloatingCTA from "./components/FloatingCTA";
+import ContactSection from "./components/ContactSection";
 
 export default function Home() {
   return (
@@ -22,6 +23,7 @@ export default function Home() {
       <Projects />
       <AISection />
       <Certifications />
+	  <ContactSection />
       <ChatBot />
       <FloatingCTA />
 
